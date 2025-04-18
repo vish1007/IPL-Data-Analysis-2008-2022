@@ -18,7 +18,7 @@ A complete data analysis and visualization pipeline built on IPL cricket data. T
 
 ## ⚙️ Project Overview
 
-![Overview]([/.img.png](https://github.com/vish1007/IPL-Data-Analysis-2008-2022/blob/f10dc5f037dbbc54e3d8bf343f878a3f8c8226d5/img.png))
+![Overview]([n/.img.png](https://github.com/vish1007/IPL-Data-Analysis-2008-2022/blob/f10dc5f037dbbc54e3d8bf343f878a3f8c8226d5/img.png))
 
 This project involves:
 - Cleaning and preprocessing IPL match data
