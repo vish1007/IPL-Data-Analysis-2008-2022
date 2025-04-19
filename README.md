@@ -46,7 +46,7 @@ Key steps:
 
 ## 🧮 Database Schema
 
-![Schema](./images/slide3_img3.png)
+![Schema](folder/schema.png)
 
 The PostgreSQL database schema organizes match, player, and performance information for structured querying and integration with visualization tools.
 
@@ -54,7 +54,7 @@ The PostgreSQL database schema organizes match, player, and performance informat
 
 ## 📊 Dashboard Overview
 
-![Dashboard](./images/slide3_img4.png)
+![Dashboard](folder/img2.png)
 
 The interactive dashboard is built using **Streamlit**, enabling:
 - Player-wise batting and bowling performance
@@ -65,7 +65,6 @@ The interactive dashboard is built using **Streamlit**, enabling:
 
 ## 🧰 Tools & Libraries Used
 
-![Tools](./images/slide4_img5.png)
 
 - **Data Preprocessing**: Pandas, NumPy (Google Colab)
 - **Database Management**: PostgreSQL, VS Code, psycopg2
@@ -75,8 +74,6 @@ The interactive dashboard is built using **Streamlit**, enabling:
 ---
 
 ## 👥 Individual Contributions
-
-![Contributions](./images/slide5_img9.png)
 
 | Team Member       | Responsibilities                                                                 |
 |-------------------|----------------------------------------------------------------------------------|
