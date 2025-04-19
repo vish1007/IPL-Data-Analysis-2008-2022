@@ -3,7 +3,7 @@
 A complete data analysis and visualization pipeline built on IPL cricket data. The project includes data preprocessing, relational database design, and an interactive dashboard to explore insights from matches, players, and teams.
 
 ---
-
+![Overview](folder/img.png)
 ## 📌 Team Information
 
 **Group 7 – DS5003 DE Project**  
