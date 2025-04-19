@@ -4,18 +4,6 @@ A complete data analysis and visualization pipeline built on IPL cricket data. T
 
 ---
 ![Overview](folder/img.png)
-## 📌 Team Information
-
-**Group 7 – DS5003 DE Project**  
-**Instructor:** Dr. Mrinal Das  
-
-**Team Members:**
-- Ankita K (142302002)
-- Vishal Singh (142302009)
-- Abhishek S Mayya (142302014)
-
----
-
 ## ⚙️ Project Overview
 
 ![Overview](folder/img1.png)
@@ -72,13 +60,5 @@ The interactive dashboard is built using **Streamlit**, enabling:
 - **Dashboard**: Streamlit
 
 ---
-
-## 👥 Individual Contributions
-
-| Team Member       | Responsibilities                                                                 |
-|-------------------|----------------------------------------------------------------------------------|
-| **Ankita K**       | Dashboard design, login/register pages, SQL queries, data visualization         |
-| **Vishal Singh**   | Data preprocessing, SQL integration, dashboard plotting                         |
-| **Abhishek S Mayya** | Database design, query formulation, Batting & Bowling stats in dashboard     |
 
 
