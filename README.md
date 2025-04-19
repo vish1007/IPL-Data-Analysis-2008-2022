@@ -20,8 +20,6 @@ This project involves:
 
 ## 🧹 Data Preprocessing
 
-![Preprocessing](./images/slide3_img2.png)
-
 Key steps:
 - **Handled Missing Values**: City, Venue, Season, Team Names
 - **Corrected Formats**: Fixed season format (2007/08 → 2008), name inconsistencies
